@@ -1,0 +1,41 @@
+body {
+    background-color:chocolate;
+}
+
+.kal {
+    align-items: center;
+    background-color:gray;
+    padding: 10px;
+    border-radius: 12px;
+    box-shadow: 25px 15px black;
+    align-items: center;
+    margin-left: 450px;
+    margin-right: 450px;
+    margin-top: 10px;
+    justify-content: center;
+    position: relative;
+}
+
+.screen {
+    width: 420px;
+    height: 70px;
+    border-radius: 13px;
+}
+
+.bn {
+    background-color:darkgrey;
+    width: 100px;
+    height: 80px;
+    border-radius: 13px;
+    font-size: xx-large;
+    box-shadow: 2px 2px black;
+}
+
+.bng {
+    background-color: blue;
+    color: white;
+    width: 100px;
+    height: 80px;
+    border-radius: 13px;
+    font-size: xx-large;
+}
